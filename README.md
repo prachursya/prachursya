@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prachursya
-- 👀 I’m interested in Data Scientist roles
+- 👀 I’m interested in Business Analyst roles
 - 🌱 I’m currently learning NLP 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Please reach me at prachuryasarma@gmail.com
 
 <!---
